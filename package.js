@@ -1,5 +1,5 @@
 Package.describe({
-    name: "socialize:many-to-many-model",
+    name: "DylanKojiCheslin:many-to-many-model",
     summary: "",
     version: "0.1.0",
     git: "https://github.com/DylanKojiCheslin/ManyToManyModels.git"
